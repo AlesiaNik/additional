@@ -1,5 +1,6 @@
 {
-    "new.key.added": "New key added",
+    "new.key.added": "New key updated",
+    "new.key.test.branch": "New key added on a test branch"
     "new.feature.launch": "New feature will be added here",
     "thank.you.Lokalise": "Thank you for using Lokalise",
     "topUp.completed.fail.link": "Try again",
